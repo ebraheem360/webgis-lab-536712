@@ -1,0 +1,11 @@
+# Virtual environments
+venv/
+.venv/
+lab4/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary test files
+**/temp_*.html
