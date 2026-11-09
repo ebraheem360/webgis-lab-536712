@@ -78,3 +78,4 @@ symbols_elements_c = symbols_pane_c.find_elements(By.XPATH, ".//*")
 print(f"Canvas mode: total elements inside leaflet-symbols-pane = {len(symbols_elements_c)}")
 
 driver.quit()
+

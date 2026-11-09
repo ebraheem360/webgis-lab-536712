@@ -625,3 +625,4 @@ print("Saved checkpoint_9_elements_comparison.png")
 
 driver.quit()
 print("All checkpoints generated successfully!")
+

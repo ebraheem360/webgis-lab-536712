@@ -151,3 +151,4 @@ job.waitForFinished()
 img = job.renderedImage()
 img.save(output_img)
 print(f"Saved rendered canvas to {output_img}")
+

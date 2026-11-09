@@ -53,3 +53,4 @@ for feat in layer.getFeatures():
         print(f"  PointOnSurface: ({pos.asPoint().x():.5f}, {pos.asPoint().y():.5f})")
 
 print(f"Total outside: {len(outside_districts)}")
+

@@ -9,3 +9,6 @@ __pycache__/
 
 # Temporary test files
 **/temp_*.html
+~$*
+
+
